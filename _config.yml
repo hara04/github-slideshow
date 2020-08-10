@@ -5,7 +5,7 @@ future:      false
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
-markdown:    kramdown
+markdown:    GFM
 lsi:         false
 permalink:   "/:title"
 
